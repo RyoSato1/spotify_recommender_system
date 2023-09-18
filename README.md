@@ -33,7 +33,7 @@ As colunas utilizadas para o modelo de recomendação são variáveis criadas pe
 * valence
 * tempo
 
-Para mais informações sobre ir no site do [Spotify]([https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?sort=votes&select=tracks.csv](https://developer.spotify.com/documentation/web-api/reference/get-audio-features)), da onde foram pegos os dados.
+Para mais informações sobre ir no site do [Spotify](https://developer.spotify.com/documentation/web-api/reference/get-audio-features), da onde foram pegos os dados.
 ## Contato
 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato pelo gmail ou linkedin.
 
