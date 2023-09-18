@@ -20,7 +20,23 @@ Na segunda parte do projeto, aplicamos os resultados obtidos na primeira etapa. 
 O conjunto de dados utilizado neste projeto foi obtido a partir do Kaggle e contém informações relevantes sobre músicas e usuários do Spotify. Você pode encontrar o conjunto de dados em [Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?sort=votes&select=tracks.csv).
 
 ### Dados utilizados no modelo de sistema de recomendação
+As colunas utilizadas para o modelo de recomendação são variáveis criadas pelo Spotify que definem variáveis importante das músicas, essas são: 
+* danceability
+* energy
+* key
+* loudness
+* mode
+* speechiness
+* acousticness
+* instrumentalness
+* liveness
+* valence
+* tempo
 
-
+Para mais informações sobre ir no site do [Spotify]([https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?sort=votes&select=tracks.csv](https://developer.spotify.com/documentation/web-api/reference/get-audio-features)), da onde foram pegos os dados.
 ## Contato
-Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato [incluir informações de contato, se desejar].
+Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato pelo gmail ou linkedin.
+
+Gmail: ryosato111@gmail.com
+
+Linkedin: https://www.linkedin.com/in/ryo-sato-415ab5205/
